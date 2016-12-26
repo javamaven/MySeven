@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="MySeven"
+  id="myeclipse.1464523858769"
+  context-root="/MySeven"
+  j2ee-spec="6.0"
+  archive="MySeven.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
